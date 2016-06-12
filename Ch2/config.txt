@@ -15,9 +15,11 @@
 *** git con (使用方法)
 *** git config --unset alias.con (移除)
 <pre>
-git config alias.add 'add *'
 git config alias.com 'commit'
 git config alias.pul 'pull origin master'
 git config alias.pus 'push origin master'
 git config alias.sta 'status'
 </pre>
+* Editor
+** git config --global core.editor notepad
+** git config --global core.editor "'C:/xxxxxxxxx/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
