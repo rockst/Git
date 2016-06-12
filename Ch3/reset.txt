@@ -1,0 +1,6 @@
+* git reset --soft 識別碼
+** repo 會變更, 索引和實體檔案不會影餉
+* git reset --mix 識別碼 (default)
+** repo 會變更, 索引？實體檔案不會影餉
+* git reset --hard 識別碼
+** repo 會變更, 索引和實體檔案都會變更
