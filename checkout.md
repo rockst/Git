@@ -12,3 +12,10 @@
 
 	git checkout file_name
 
+## fetch branch ##
+
+	git fetch
+	git checkout branch_name
+
+http://stackoverflow.com/questions/1783405/how-to-check-out-a-remote-git-branch
+
