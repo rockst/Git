@@ -11,6 +11,10 @@
 > file
 
 	git checkout file_name
+	
+## remove all changes to my working copy ##	
+	
+	git checkout -- `git ls-files -m`
 
 ## fetch branch ##
 
