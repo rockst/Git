@@ -1,0 +1,3 @@
+git clean -fd
+https://stackoverflow.com/questions/1090309/git-undo-all-working-dir-changes-including-new-files
+https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-use-the-git-clean-command
