@@ -39,9 +39,12 @@
 > credentials
 	git config --global credential.helper store
 	git pull
+	
 	(Input username/password)
+	
 	git pull (For test)
 	
 	If you want to change the password
+	
 	.git-credentials file
 
