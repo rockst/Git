@@ -35,3 +35,13 @@
 
 	git config --global core.editor notepad
 	git config --global core.editor "'C:/xxxxxxxxx/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
+	
+> credentials
+	git config --global credential.helper store
+	git pull
+	(Input username/password)
+	git pull (For test)
+	
+	If you want to change the password
+	.git-credentials file
+
