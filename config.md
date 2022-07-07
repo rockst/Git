@@ -37,6 +37,7 @@
 	git config --global core.editor "'C:/xxxxxxxxx/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
 	
 > credentials
+
 	git config --global credential.helper store
 	git pull
 	
