@@ -47,5 +47,5 @@
 	
 	If you want to change the password
 	
-	.git-credentials file
+	~/.git-credentials
 
