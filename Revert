@@ -1,0 +1,4 @@
+git revert COMMIT_ID
+
+	• Will not move to commit history
+	• Add a new commit, undo file changes
